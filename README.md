@@ -8,10 +8,10 @@
 | Komponen | Keterangan |
 | :--- | :--- |
 | **Mata Kuliah** | Ethical Hacking |
-| **Program Studi / Kelas** | D4 Teknik Informatika / IK-3 (Semester 5) |
+| **Program Studi / Kelas** | D3 Teknik Informatika / IK-3 (Semester 5) |
 | **Perguruan Tinggi** | Politeknik Negeri Semarang (POLINES) |
 | **Dosen Industri** | **Rofiq Fauzi** (`rofiq.fauzi@dsn.polines.ac.id`) |
-| **Pengembang** | **Sheva Zanuar Pratama** (NIM: 3.34.22.0.23 / Mahasiswa TI) |
+| **Pengembang** | **Sheva Zanuar Pratama** (NIM: 3.34.22.0.22) |
 | **Tema Proyek** | **20. CTF Learning Platform: Pembelajaran Ethical Hacking dengan AI Tutor** |
 | **Repositori** | [CTF-FORGE](https://github.com/shevazanuar/CTF-FORGE) |
 | **Visibility Repositori** | **Private** (Akses kolaborator diberikan kepada dosen pengampu) |
